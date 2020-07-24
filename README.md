@@ -1,3 +1,3 @@
 # BrackeysGameJam
 Brackeys Game Jam 2020
-Members: Markus, Leon, Johnny and Dev 
+Members: Markus, Leon, Jonny and Dev 
